@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fontes Externas</title>
+    <style>
+        @font-face {
+            font-family: 'ButterPop';
+            src: url('fonts/Butterpop.otf') format('opentype'), url('fonts/Butterpop.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal;
+
+            /*
+                Tipos de formatos:
+                - opentype (otf)
+                - truetype (ttf)
+                - embedded-opentype
+                - truetype-att (Apple Advanced Typography)
+                - svg
+            */
+        }
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        h1 {
+            font-family: ButterPop, Times, serif;
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Titulo</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quae nisi dolore fugit accusamus quo corporis assumenda tempore, iusto, nam aspernatur quas libero expedita earum itaque id repellat sapiente ut.</p>
+    <h2>Subtítulo</h2>
+    <p></p>
+    
+</body>
+</html>
