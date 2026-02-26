@@ -12,7 +12,7 @@ Projetos mais completos e elaborados para testar os conhecimentos adquiridos.
 * [Desafio 06 - (Tags em HTML)](./desafios/desafio06/)
 * [Desafio 09 - (Links)](./desafios/desafio09/)
 
-* [Desafio 10 - (Curiosidades de Tecnologia)](./desafios/desafio10/)
+* [Desafio 10 - (Curiosidades de Tecnologia)](./desafios/desafio10/android.html)
 * [Desafio 12 - (Em desenvolvimento)](./desafios/desafio12/)
 
 ---
